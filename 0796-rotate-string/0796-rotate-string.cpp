@@ -5,8 +5,7 @@ public:
             return false;
         s+=s;
         for(int i=0;i<goal.size();i++){
-            string x=s.substr(i,goal.size());
-            if(x==goal)
+            if(s.substr(i,goal.size())==goal)
                 return true;
         }
         return false;
