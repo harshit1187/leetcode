@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/harshit1187/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harshit1187/leetcode/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/harshit1187/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/harshit1187/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/harshit1187/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -49,8 +50,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/harshit1187/leetcode/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/harshit1187/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/harshit1187/leetcode/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/harshit1187/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/harshit1187/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/harshit1187/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/harshit1187/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
